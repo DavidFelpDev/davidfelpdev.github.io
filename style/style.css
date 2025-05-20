@@ -81,7 +81,6 @@ header{
         padding: 0.5rem 1rem;
         transition: 0.4s;
         border-radius: 10%;
-        /* border: solid 2px var(--main-color);  */
         display: inline-flex;
 
 }
